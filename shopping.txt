@@ -1,0 +1,10 @@
+Items Price
+Milk 50
+Eggs 75
+Juice 100
+Cookies 250
+Tea_Bag 85
+Cheese 95
+Wine 1350
+Whiskey 2250
+Rum 1825

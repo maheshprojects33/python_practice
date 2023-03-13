@@ -1,0 +1,10 @@
+S.No Items Price
+1 Milk 50
+2 Eggs 75
+3 Juice 100
+4 Cookies 250
+5 Tea_Bag 85
+6 Cheese 95
+7 Wine 1350
+8 Whiskey 2250
+9 Rum 1825
